@@ -4,8 +4,8 @@ import time
 API_URL = "https://chro-api.onrender.com/login"  
 
 PAYLOAD = {
-    "email": "ritik@example.com",
-    "password": "Hello from GitHub Actions!"
+    "email": "ritik.k@example.com",
+    "password": "SecurePass123!"
 }
 
 def send_request():
