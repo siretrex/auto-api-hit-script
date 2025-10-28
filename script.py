@@ -1,7 +1,7 @@
 import requests
 import time
 
-API_URL = "https://chro-api.onrender.com/login"  
+API_URL = "https://warsakybackend.onrender.com/teams"  
 
 PAYLOAD = {
     "email": "ritik.k@example.com",
